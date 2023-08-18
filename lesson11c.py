@@ -74,6 +74,8 @@ account1 = Account(
     "Westlands",
     "active"
 )
+
+#comment
 #This is a commment
 # account1.menu()
 
